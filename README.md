@@ -1,9 +1,3 @@
-**Name**: Kshitij Vats <br />
-**Company**: CODTECH IT SOLUTIONS <br />
-**ID:** CT6WDS1663 <br />
-**Domain:** Web Development <br />
-**Duration:** August 10 to September 25 <br />
-**Mentor Name:** Muzammil ahmed <br />
 
 # Weather App
 ![image](https://github.com/user-attachments/assets/e6f8681a-0048-4991-8855-c67639b5b261)
